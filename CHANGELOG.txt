@@ -1,0 +1,9 @@
+# CHANGELOG
+
+# Versión 1.0
+- Carga del dataset.
+- Limpieza de datos.
+- Entrenamiento de modelos.
+- Evaluación de resultados.
+- Registro en MLflow.
+- Documentación final.
