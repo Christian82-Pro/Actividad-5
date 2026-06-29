@@ -1,0 +1,3 @@
+modelo,accuracy,precision,recall,f1,roc_auc,mejores_parametros
+Regresion_Logistica,0.41833333333333333,0.5113840215116566,0.33555705057475116,0.3745589841727073,0.7137202193893584,"{'modelo__C': 10, 'tfidf__max_features': 3000}"
+Random_Forest,0.43,0.6490022759601708,0.2933964286712819,0.3353373454939928,0.7392130105721555,"{'modelo__max_depth': None, 'modelo__n_estimators': 200, 'tfidf__max_features': 5000}"
